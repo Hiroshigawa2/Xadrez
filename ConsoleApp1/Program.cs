@@ -12,10 +12,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            Posicao P;
-            P = new Posicao(3,4);
+            Posicao psi = new Posicao(2, 2);
 
-            Console.WriteLine("Posição: " + P);
+            Console.WriteLine();
 
         }
     }
