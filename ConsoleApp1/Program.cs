@@ -12,10 +12,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            Posicao psi = new Posicao(2, 2);
-
-            Console.WriteLine();
-
+            Tabuleiro tab = new Tabuleiro(8,8);
+ 
         }
     }
 }
